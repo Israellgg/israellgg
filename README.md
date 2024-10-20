@@ -4,7 +4,8 @@ Apaixonado por tecnologia, decidi me dedicar aos estudos na área e seguir uma c
 <div align="center">
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=israellgg&hide=java&layout=compact&theme=dark) ![Github Stats](https://github-readme-stats.vercel.app/api?username=israellgg&theme=cobalt&show_icons=true) 
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=israellgg&hide=java&layout=compact&theme=tokyonight) ![Github Stats](https://github-readme-stats.vercel.app/api?username=israellgg&show_icons=true&theme=tokyonight) 
 
 </div>
 <!-- REDES SOCIAIS -->
@@ -14,6 +15,4 @@ Apaixonado por tecnologia, decidi me dedicar aos estudos na área e seguir uma c
   <a href="https://www.linkedin.com/in/israel-fernandes-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="mailto:israellgg@gmail.com" target="_blank"><img src="https://play-lh.googleusercontent.com/D1Dz2BjPYev_oyksKXsdtAS66a_2Ql-sklpzTnwR9lqnDG_P5lAJEtfR70FudJ0XMA=s48-rw" style='width: 28px' target="_blank"></a>  
 
   
-  
 </div>
-
