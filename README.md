@@ -3,10 +3,8 @@
 Apaixonado por tecnologia, decidi me dedicar aos estudos na área e seguir uma carreira nesse campo. Atualmente, estou fazendo estágio na área de infraestrutura, onde tenho a oportunidade de aprender ferramentas de DevOps como Docker, Kubernetes, Ansible. Meu objetivo é me aprimorar a cada dia, buscando ser um profissional melhor e mais capacitado.
 <div align="center">
 
-
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=israellgg&hide=java&layout=compact&theme=tokyonight)
- ![Github Stats](https://github-readme-stats.vercel.app/api?username=israellgg&show_icons=true&theme=tokyonight) 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=israellgg&hide=java&layout=compact&theme=tokyonight) </br>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=israellgg&show_icons=true&theme=tokyonight)
 
 </div>
 <!-- REDES SOCIAIS -->
