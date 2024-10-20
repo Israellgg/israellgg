@@ -5,7 +5,8 @@ Apaixonado por tecnologia, decidi me dedicar aos estudos na área e seguir uma c
 
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=israellgg&hide=java&layout=compact&theme=tokyonight) ![Github Stats](https://github-readme-stats.vercel.app/api?username=israellgg&show_icons=true&theme=tokyonight) 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=israellgg&hide=java&layout=compact&theme=tokyonight)
+ ![Github Stats](https://github-readme-stats.vercel.app/api?username=israellgg&show_icons=true&theme=tokyonight) 
 
 </div>
 <!-- REDES SOCIAIS -->
